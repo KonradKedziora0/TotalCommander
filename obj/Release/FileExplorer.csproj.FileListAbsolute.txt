@@ -1,0 +1,12 @@
+C:\Users\48667\source\repos\FileExplorer\bin\Release\FileExplorer.exe.config
+C:\Users\48667\source\repos\FileExplorer\bin\Release\FileExplorer.exe
+C:\Users\48667\source\repos\FileExplorer\bin\Release\FileExplorer.pdb
+C:\Users\48667\source\repos\FileExplorer\obj\Release\FileExplorer.csprojAssemblyReference.cache
+C:\Users\48667\source\repos\FileExplorer\obj\Release\FileExplorer.Form1.resources
+C:\Users\48667\source\repos\FileExplorer\obj\Release\FileExplorer.Properties.Resources.resources
+C:\Users\48667\source\repos\FileExplorer\obj\Release\FileExplorer.csproj.GenerateResource.cache
+C:\Users\48667\source\repos\FileExplorer\obj\Release\FileExplorer.csproj.CoreCompileInputs.cache
+C:\Users\48667\source\repos\FileExplorer\obj\Release\FileExplorer.exe
+C:\Users\48667\source\repos\FileExplorer\obj\Release\FileExplorer.pdb
+C:\Users\48667\source\repos\FileExplorer\obj\Release\FileExplorer.TrustInfo.xml
+C:\Users\48667\source\repos\FileExplorer\obj\Release\FileExplorer.exe.manifest
